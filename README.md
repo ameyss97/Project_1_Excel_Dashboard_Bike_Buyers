@@ -114,5 +114,8 @@ NA
 - Now Copied the visualizations created to `Dashboard` and arranged them Properly
 - Insert slicers
 
+## Dashboard
+![Dashboard](https://github.com/ameyss97/Project_1_Excel_Dashboard_Bike_Buyers/blob/main/Excel_project_dashboard.png?raw=true)
+
 ## Results and Conclusions
 
